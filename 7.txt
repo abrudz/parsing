@@ -1,0 +1,10 @@
+North 4
+South 17
+South 18
+West 3
+West 14
+South 11
+South 15
+East 8
+South 12
+North 10
